@@ -1,0 +1,12 @@
+{application, coursera_algo,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { coursera_algo_app, []}},
+  {env, []}
+ ]}.
