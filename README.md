@@ -1,0 +1,1 @@
+I just do some exercices during the algo course of Coursera (Standford version, part 1)
